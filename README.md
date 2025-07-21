@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creative websites, simulations, and projects that challenge my skills and push design boundaries.  
 - 📫 How to reach me: [tobilobacodes00.github.io/Portfolio](https://tobilobacodes00.github.io/Portfolio/)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: My Portfolio will shock you. Execution is my superpower.  
+- ⚡ Fun fact: Consistency and discpline is my superpower.  
 
 <!---
 tobilobacodes00/tobilobacodes00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
