@@ -1,10 +1,10 @@
-# Holla, I'm Tobilola  
+# Holla, I'm Tobilola, Your Go-To Frontend Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graphics-Design-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphics-Designer-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Creative-Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Experiences🔥-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Experiences-yellow?style=for-the-badge" />
 </p>
 
 **Frontend Developer | UI/UX Enthusiast | Problem Solver**  
@@ -87,8 +87,9 @@ Focused on clean code, design consistency, and delivering user-centered experien
 
 ---
 
-✨ Always open to collaborations, learning, and building impactful projects.  
-📫 Reach me at: **[tobilolacodes00](https://portfolio-tobilobacodes-projects.vercel.app/)**  
+ Always open to collaborations, learning, and building impactful projects.  
+ Reach me at: **[tobilolacodes00](https://portfolio-tobilobacodes-projects.vercel.app/)**  
+ 
 ---
 ## **Consistency + Discipline = My Superpower**
 ---
