@@ -1,4 +1,4 @@
-<h1 align="center"> Building Creative Web Experiences That Stand Out 🚀 </h1>
+# Holla, I'm Tobilola  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Engineer-blue?style=for-the-badge" />
@@ -7,72 +7,92 @@
   <img src="https://img.shields.io/badge/Web%20Experiences🔥-yellow?style=for-the-badge" />
 </p>
 
+**Frontend Developer | UI/UX Enthusiast | Problem Solver**  
+
+I am fully passionate about crafting responsive, scalable, and visually engaging web applications.  
+Focused on clean code, design consistency, and delivering user-centered experiences with the best in the market tools and applications.  
+
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tobilobacodes00/tobilobacodes00/main/profile_banner.gif" width="65%" alt="animated banner"/>
+## My Personal Tech Stack  
+
+### Frontend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+</p>  
+
+- React.js (Components, Props, State, Hooks)  
+- Redux (State Management)  
+- React Router (Routing)  
+- Component-Based Architecture  
+- Responsive Web Design & CSS Animations  
+- DOM Manipulation & APIs (Fetch, Catch)  
+- Accessibility (a11y)  
+
+---
+
+### Quality Design  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
----
-
-## 👋 About Me  
-
-Hey there, I’m **Tobiloba** – a **Frontend Engineer**, **Graphics Designer**, and creative mind passionate about building **powerful, aesthetic, and unforgettable web experiences**.  
-
-- 👀 Interested in **frontend engineering, creative design, and pushing boundaries with web tech**.  
-- 🌱 Currently sharpening my skills in **JavaScript, DOM manipulation, and advanced web fundamentals** before diving fullstack.  
-- 💞️ Open to collaborating on **simulations, creative websites, and projects** that demand both design flair and technical precision.  
-- 📫 Reach me via my **[Portfolio](https://portfolio-tobilobacodes-projects.vercel.app/)**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **Consistency + Discipline = My Superpower** 💪  
+- UI Component Design (Reusable & Scalable)  
+- Mobile-First & User-Centered Design  
+- Wireframing & Prototyping  
+- Typography, Color Theory, Gradients  
+- Glassmorphism & Neumorphism styles  
+- Branding Consistency  
 
 ---
 
-## 🛠 Tech Stack  
-
-### 🎨 **Frontend & Web Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+### Workflow & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
-### 🖌️ **Graphics & Creativity**
-- UI/UX Wireframing & Prototyping 🎨  
-- Creative Branding & Design Assets ✨  
-- Pixel-perfect layouts & animations 🖥️  
+- Git & GitHub (Version Control)  
+- Agile Workflow (Scrum, Kanban, SDLC)  
+- AI-Powered Coding (Copilot, Prompt Engineering)  
+- Digital Collaboration Tools  
 
 ---
 
-## 🚀 Highlighted Projects  
-
-- 🎭 **Creative Portfolio Website** – Showcasing my work in **design & web engineering**.  
-- ⚡ **JavaScript Simulations** – Hands-on DOM manipulation projects that bring ideas to life.  
-- 🌐 **Interactive Web Experiences** – Building modern and responsive sites that **stand out**.  
-
-...and more in the works 👨🏽‍💻  
+### My Soft Skills  
+- Problem-Solving & Critical Thinking  
+- Teamwork & Communication  
+- Time Management & Deep Work Focus  
+- Learning Discipline (Self-taught Workflow Optimization)  
+- Customer-Centric Thinking & UX Writing  
+- Presentation & Technical Writing  
+- Growth Mindset & Adaptability  
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
+## GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tobilobacodes00&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tobilobacodes00&theme=radical" alt="GitHub Streaks"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobilobacodes00&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tobilolacodes00&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobilolacodes00&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>  
 
 ---
 
-## 🌍 Connect with Me  
-
-<p align="center">
-  <a href="https://portfolio-tobilobacodes-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
+✨ Always open to collaborations, learning, and building impactful projects.  
+📫 Reach me at: **[tobilolacodes00](https://portfolio-tobilobacodes-projects.vercel.app/)**  
+---
+## **Consistency + Discipline = My Superpower**
 ---
 
-**“Consistency creates masterpieces – I code, I design, I build.”** ✨
 
 
 
@@ -84,21 +104,3 @@ Hey there, I’m **Tobiloba** – a **Frontend Engineer**, **Graphics Designer**
 
 
 
-
-
-
-
-
-<!-- - 👋 Hi, I’m @tobilobacodes00  
-- 👀 I’m interested in frontend engineering, Graphics design, and building powerful web experiences that stand out.  
-- 🌱 I’m currently learning JavaScript, DOM manipulation, and advanced web fundamentals to master frontend before going fullstack.  
-- 💞️ I’m looking to collaborate on creative websites, simulations, and projects that challenge my skills and push design boundaries.  
-- 📫 How to reach me: [Portfolio](https://portfolio-tobilobacodes-projects.vercel.app/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Consistency and discpline is my superpower.
--  ->
-
-<!---
-tobilobacodes00/tobilobacodes00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
