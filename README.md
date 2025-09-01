@@ -88,7 +88,7 @@ Focused on clean code, design consistency, and delivering user-centered experien
 ---
 
  Always open to collaborations, learning, and building impactful projects.  
- Reach me at: **[tobilolacodes00](https://portfolio-tobilobacodes-projects.vercel.app/)**  
+ Reach me always at: **[tobilolacodes00](https://portfolio-tobilobacodes-projects.vercel.app/)**  
  
 ---
 ## **Consistency + Discipline = My Superpower**
