@@ -2,7 +2,7 @@
 
 TypeScript · Rust · Python
 
-I built **Autrans** from scratch.
+I built **[Autrans](https://www.autrans.online)** from scratch.
 
 I work with teams. Sometimes alone.
 
