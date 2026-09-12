@@ -1,16 +1,12 @@
-<h2 align="center">Tobiloba Sulaimon</h2>
+<h2>Tobiloba Sulaimon</h2>
 
-<p align="center">
+<p>
 <sub>Expert: TypeScript · Rust · Python </sub>
 </p>
-
----
 
 I built **Autrans** from scratch.
 
 I work with teams. Sometimes alone.
-
----
 
 <p align="center">
   <a href="https://tobilobasulaimon.com">Portfolio</a> ·
